@@ -1,0 +1,8 @@
+analyzer:
+  errors:
+    deprecated_member_use: ignore
+  enable-experiment:
+    - macros
+  exclude:
+    - bin/checks_main.dart
+    - bin/injectable_main.dart
